@@ -64,6 +64,7 @@ header > h1 {
 header > p{
     font-family: var(--font-padrao);
     font-size: 1.3em;
+    padding-bottom: 50px;
 }
 
 nav{
